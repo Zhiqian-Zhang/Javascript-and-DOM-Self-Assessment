@@ -33,12 +33,12 @@ A reimagined platform displaying AirBNB listings using data fetched from JSON fi
 
 ## Deployment
 
-This project is deployed on GitHub Pages. [Click here to view the live site.](your-github-pages-link)
+This project is deployed on GitHub Pages. [Click here to view the live site.](https://zhiqian-zhang.github.io/Javascript-and-DOM-Self-Assessment/)
 
 ## Getting Started
 
 1. Clone the repository: 
-git clone https://github.com/your-github-username/your-repo-name.git
+git clone [https://github.com/your-github-username/your-repo-name.git](https://github.com/Zhiqian-Zhang/Javascript-and-DOM-Self-Assessment.git)
 2. Navigate to the directory:
 cd your-repo-name
 3. Open `index.html` in your browser.
