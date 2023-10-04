@@ -11,3 +11,25 @@
     box-shadow: 0 8px 16px rgba(0,0,0,0.1);
 }
 
+/* Style for the card images to ensure uniform size */
+.listing .card-img-top {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover; /* Ensures the aspect ratio of images is maintained */
+}
+
+/* Ensure all cards have the same height */
+.listing .card {
+    height: 100%;  /* Adjust based on your requirements */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure all card bodies expand to fill the card */
+.listing .card .card-body {
+    flex: 1;  
+    overflow: hidden;  /* Hide content that overflows the card */
+}
+
+
+
